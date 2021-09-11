@@ -229,7 +229,7 @@ header .mobile {
   background-color: white;
 }
 
-.feature .image-container {
+.feature .image-container img {
   width: 90%;
   height: 65%;
   margin: 0 auto;
