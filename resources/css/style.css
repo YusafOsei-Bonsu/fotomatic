@@ -6,8 +6,7 @@ html {
 }
 
 .main-content {
-  position: relative;
-  top: 5.3125rem; /* To offset for fixed header. */
+  margin-top: 5.3125rem;
 }
 
 .center {
@@ -39,6 +38,7 @@ html {
 header {
   position: fixed;
   width: 100%;
+  top: 0;
   border-bottom: solid 1px #c6c1c1;
   background-color: white;
 }
